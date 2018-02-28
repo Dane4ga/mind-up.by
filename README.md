@@ -1,0 +1,2 @@
+# mind-up.by
+website
